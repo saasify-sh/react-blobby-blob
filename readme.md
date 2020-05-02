@@ -1,6 +1,12 @@
 <p align="center">
   <a href="https://saasify.sh" title="Saasify">
-    <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.gif" alt="React Blobby Blob" />
+    <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.jpg" alt="React Blobby Blob" width="422" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://saasify.sh" title="Saasify">
+    <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.gif" alt="React Blobby Blob" width="422" />
   </a>
 </p>
 
@@ -24,7 +30,7 @@ import React from 'react'
 import { Blob } from 'react-blobby-blob'
 import 'react-blobby-blob/dist/index.css'
 
-export () =>  (
+export () => (
   <Blob />
 )
 ```
