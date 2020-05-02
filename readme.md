@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://saasify.sh" title="Saasify">
+    <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.gif" alt="React Blobby Blob" />
+  </a>
+</p>
+
 # react-blobby-blob
 
 > Blobby blobby blobs for React.
@@ -25,4 +31,4 @@ export () =>  (
 
 ## License
 
-MIT © [Saasify](https://github.com/saasify-sh)
+MIT © [Saasify](https://saasify.sh)
