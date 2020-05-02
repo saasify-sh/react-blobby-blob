@@ -10,6 +10,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-blobby-blob.svg)](https://www.npmjs.com/package/react-blobby-blob) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+This blob effect was originally created for [Saasify](https://saasify.sh).
+
 ## Install
 
 ```bash
