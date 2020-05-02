@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://saasify.sh" title="Saasify">
+  <a href="https://saasify-sh.github.io/react-blobby-blob/" title="Saasify">
     <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.jpg" alt="React Blobby Blob" width="422" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://saasify.sh" title="Saasify">
+  <a href="https://saasify-sh.github.io/react-blobby-blob/" title="Saasify">
     <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.gif" alt="React Blobby Blob" width="422" />
   </a>
 </p>
