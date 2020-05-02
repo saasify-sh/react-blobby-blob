@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-blobby-blob/static/css/main.5757f3bb.chunk.css",
+    "main.js": "/react-blobby-blob/static/js/main.294189c4.chunk.js",
+    "main.js.map": "/react-blobby-blob/static/js/main.294189c4.chunk.js.map",
+    "runtime-main.js": "/react-blobby-blob/static/js/runtime-main.5c3ed832.js",
+    "runtime-main.js.map": "/react-blobby-blob/static/js/runtime-main.5c3ed832.js.map",
+    "static/js/2.87093b3c.chunk.js": "/react-blobby-blob/static/js/2.87093b3c.chunk.js",
+    "static/js/2.87093b3c.chunk.js.map": "/react-blobby-blob/static/js/2.87093b3c.chunk.js.map",
+    "index.html": "/react-blobby-blob/index.html",
+    "precache-manifest.17f168c7895844d16bbfea4bf09f8eee.js": "/react-blobby-blob/precache-manifest.17f168c7895844d16bbfea4bf09f8eee.js",
+    "service-worker.js": "/react-blobby-blob/service-worker.js",
+    "static/css/main.5757f3bb.chunk.css.map": "/react-blobby-blob/static/css/main.5757f3bb.chunk.css.map",
+    "static/js/2.87093b3c.chunk.js.LICENSE.txt": "/react-blobby-blob/static/js/2.87093b3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c3ed832.js",
+    "static/js/2.87093b3c.chunk.js",
+    "static/css/main.5757f3bb.chunk.css",
+    "static/js/main.294189c4.chunk.js"
+  ]
+}
