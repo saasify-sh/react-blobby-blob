@@ -12,7 +12,7 @@
 
 # react-blobby-blob
 
-> Blobby blobby blobs for React.
+> Blobby blobby blobs for React. ([demo](https://saasify-sh.github.io/react-blobby-blob/))
 
 [![NPM](https://img.shields.io/npm/v/react-blobby-blob.svg)](https://www.npmjs.com/package/react-blobby-blob) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
