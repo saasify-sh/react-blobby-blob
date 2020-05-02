@@ -4,12 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://saasify-sh.github.io/react-blobby-blob/" title="Saasify">
-    <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.gif" alt="React Blobby Blob" width="422" />
-  </a>
-</p>
-
 # react-blobby-blob
 
 > Blobby blobby blobs for React. ([demo](https://saasify-sh.github.io/react-blobby-blob/))
@@ -34,6 +28,16 @@ export () => (
   <Blob />
 )
 ```
+
+## Animations
+
+By default, the blob responds to clicks by randomly generating new control points around a rectangle and morphing to the new blob svg. You can control this behavior by setting `interactive` to `false` or changing the default `duration` of `150` ms.
+
+<p align="center">
+  <a href="https://saasify-sh.github.io/react-blobby-blob/" title="Saasify">
+    <img src="https://raw.githubusercontent.com/saasify-sh/react-blobby-blob/master/media/blob.gif" alt="React Blobby Blob" width="422" />
+  </a>
+</p>
 
 ## License
 
