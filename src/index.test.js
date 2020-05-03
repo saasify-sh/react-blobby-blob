@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { Blob } from '.'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Blob).toBeTruthy()
   })
 })
