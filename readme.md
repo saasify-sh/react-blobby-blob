@@ -44,3 +44,5 @@ By default, the blob responds to clicks by randomly generating new control point
 ## License
 
 MIT © [Saasify](https://saasify.sh)
+
+Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
